@@ -1,3 +1,9 @@
+---
+layout: pages
+title: About
+category: about
+permalink: /about
+---
 # Federico
 
 ## _Live better, live longer_
