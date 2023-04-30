@@ -4,7 +4,7 @@ title: "Don Patricio"
 author: "Federico"
 categories: facts
 tags: [rap,latino,canarie]
-image: don-pratricio.jpeg
+image: don-patricio.jpeg
 ---
 
 # Don Patricio
