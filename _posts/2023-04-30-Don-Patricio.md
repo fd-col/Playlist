@@ -2,7 +2,7 @@
 layout: post
 title: "Don Patricio"
 author: "Federico"
-categories: facts
+categories: latino
 tags: [rap,latino,canarie]
 image: don-patricio.jpeg
 ---
