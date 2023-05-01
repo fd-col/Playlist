@@ -2,8 +2,8 @@
 layout: post
 title: "Tre Allegri Ragazzi Morti"
 author: "Federico"
-categories: rap
-tags: [tarm,cantante,snoopdog]
+categories: punk
+tags: [tarm,cantante,rock,indie,punk,blues]
 image: Tre-Allegri-Ragazzi-Morti.jpeg
 ---
 
