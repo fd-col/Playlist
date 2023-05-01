@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
+- {name: 'Rap',  url: 'rap'}
 - {name: 'Latino',       url: 'latino'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
