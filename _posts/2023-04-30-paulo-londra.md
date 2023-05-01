@@ -2,7 +2,7 @@
 layout: post
 title: "Paulo Londra"
 author: "Federico"
-categories: facts
+categories: latino
 tags: [rap,cantante,argentina,adan_y_eva,homerun,tal_vez]
 image: paulo-londra.jpeg
 ---
