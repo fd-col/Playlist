@@ -8,11 +8,10 @@ permalink: /about
 
 ## _Live better, live longer_
 
-Open-minded guy who needs to travel away periodically. Here to share places, cities, landscapes I bump into during my trips.
+Open-minded guy who needs to travel away periodically. Here to share some artists that is worth listening to.
 
 ## Gallery
-<div style = "float:left;position:relative;">
-    <img style= "float:left" src="https://fd-col.github.io/Travelit/assets/img/pizzaincasa.JPG" alt="" width="300"/>
-    <img style= "float:left" src="https://fd-col.github.io/Travelit/assets/img/IMG_19631.jpg" alt="" width="300"/>
-    <img style= "float:left" src="https://fd-col.github.io/Travelit/assets/img/CivitelladelTronto2.jpg" alt="" width="300"/>
-</div>
+
+<img style= "float:left" src="https://fd-col.github.io/Travelit/assets/img/pizzaincasa.JPG" alt="" width="300"/>
+<img style= "float:left" src="https://fd-col.github.io/Travelit/assets/img/IMG_19631.jpg" alt="" width="300"/>
+<img style= "float:left" src="https://fd-col.github.io/Travelit/assets/img/CivitelladelTronto2.jpg" alt="" width="300"/>
