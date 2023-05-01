@@ -12,6 +12,6 @@ Open-minded guy who needs to travel away periodically. Here to share some artist
 
 ## Gallery
 
-<img style= "float:left" src="https://fd-col.github.io/Travelit/assets/img/pizzaincasa.JPG" alt="" width="300"/>
-<img style= "float:left" src="https://fd-col.github.io/Travelit/assets/img/IMG_19631.jpg" alt="" width="300"/>
-<img style= "float:left" src="https://fd-col.github.io/Travelit/assets/img/CivitelladelTronto2.jpg" alt="" width="300"/>
+<img style= "float:left" src="https://fd-col.github.io/Playlist/assets/img/pizzaincasa.JPG" alt="" width="300"/>
+<img style= "float:left" src="https://fd-col.github.io/Playlist/assets/img/IMG_19631.jpg" alt="" width="300"/>
+<img style= "float:left" src="https://fd-col.github.io/Playlist/assets/img/CivitelladelTronto2.jpg" alt="" width="300"/>
