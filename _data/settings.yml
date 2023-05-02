@@ -11,6 +11,7 @@ menu:
 - {name: 'Hip hop',       url: 'hiphop'}
 - {name: 'Latino',        url: 'latino'}
 - {name: 'Pop',           url: 'pop'}
+- {name: 'Pop punk',      url: 'pop-punk'}
 - {name: 'Rap',           url: 'rap'}
 - {name: 'Reggae',        url: 'reggae'}
 - {name: 'Reggaeton',     url: 'reggaeton'}
