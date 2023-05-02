@@ -2,7 +2,7 @@
 layout: post
 title: "Tre Allegri Ragazzi Morti"
 author: "Federico"
-categories: poppunk
+categories: pop_punk
 tags: [tarm,cantante,rock,indie,punk,blues]
 image: Tre-Allegri-Ragazzi-Morti.jpeg
 ---
