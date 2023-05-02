@@ -2,7 +2,7 @@
 layout: post
 title: "Lucio Dalla"
 author: "Federico Colleluori"
-categories: documentation
+categories: cantautore
 tags: [Dalla,Cantautorato,Caruso,Miracoli]
 image: lucio-dalla.jpeg
 ---
