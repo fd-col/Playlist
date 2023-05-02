@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Pop punk
-category: pop-punk
-permalink: /pop-punk
+category: pop_punk
+permalink: /pop_punk
 ---
