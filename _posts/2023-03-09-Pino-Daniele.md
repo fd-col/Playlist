@@ -2,7 +2,7 @@
 layout: post
 title: "Pino Daniele"
 author: "Federico"
-categories: città
+categories: cantautore
 tags: [Cantautorato,Amore]
 image: pino-daniele.jpeg
 ---
