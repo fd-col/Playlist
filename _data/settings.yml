@@ -7,16 +7,21 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Rap',  url: 'rap'}
-- {name: 'Latino',       url: 'latino'}
-- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
+- {name: 'Cantautore',    url: 'cantautore'}
+- {name: 'Hip hop',       url: 'hiphop'}
+- {name: 'Latino',        url: 'latino'}
+- {name: 'Rap',           url: 'rap'}
+- {name: 'Reggae',        url: 'reggae'}
+- {name: 'Reggaeton',     url: 'reggaeton'}
+- {name: 'Trap',          url: 'trap'}
+- {name: 'Documentation', url: 'documentation'}
+- {name: 'About',         url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'facebook', link:   'https://www.facebook.com/federico.colleluori7'}
-- {icon: 'instagram', link:  'https://instagram.com/federi_10'}
-- {icon: 'envelope', link:   'mailto:federicocolleluori@gmail.com'}
+# - {icon: 'facebook', link:   'https://www.facebook.com/federico.colleluori7'}
+# - {icon: 'instagram', link:  'https://instagram.com/federi_10'}
+# - {icon: 'envelope', link:   'mailto:federicocolleluori@gmail.com'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
