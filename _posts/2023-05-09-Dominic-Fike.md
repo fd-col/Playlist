@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dominic fike"
+title: "Dominic Fike"
 author: "Federico Colleluori"
 categories: cantautore
 tags: [cantante, attore, 3Nights, Babydoll, Coachella]
