@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Cantautore',    url: 'cantautore'}
+- {name: 'Cantautori',    url: 'cantautore'}
 - {name: 'Hip hop',       url: 'hiphop'}
 - {name: 'Latino',        url: 'latino'}
 - {name: 'Pop',           url: 'pop'}
