@@ -8,7 +8,7 @@ google-ID: 'G-JDXXFJ7FS2'
 
 menu:
 - {name: 'Cantautori',    url: 'cantautore'}
-- {name: 'Hip hop',       url: 'hiphop'}
+- {name: 'Hip hop',       url: 'hip_hop'}
 - {name: 'Latino',        url: 'latino'}
 - {name: 'Pop',           url: 'pop'}
 - {name: 'Pop punk',      url: 'pop_punk'}
