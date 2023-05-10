@@ -4,7 +4,7 @@ title: "Ed Sheeran"
 author: "Federico"
 categories: pop
 tags: [cantante,chitarra,irlandese]
-image: ed-sheeran.jpg
+image: ed-sheeran.jpeg
 ---
 
 # Ed Sheeran
