@@ -4,7 +4,7 @@ title: "Kendrick Lamar"
 author: "Federico Colleluori"
 categories: rap,cantautore
 tags: [kendrick,rap,cantante,produttore,america,K-dot]
-image: kendrick-lamar.jepg
+image: kendrick-lamar.jpeg
 ---
 
 # Kendrick Lamar
