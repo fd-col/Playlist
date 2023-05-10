@@ -11,17 +11,19 @@ image: dominic-fike.jpeg
 
 Dominic David Fike (Naples, Florida, 30 dicembre 1995) è un cantautore e attore statunitense. 
 
-Nato a Naples, Fike ha registrato il suo primo EP Don't Forget About Me, Demos a dicembre 2017 mentre era sotto arresti domiciliari a causa di un'aggressione aggravata contro un agente di polizia.[2] La pubblicazione, la cui uscita è avvenuta nel 2018, è stata supportata dal singolo 3 Nights,[3] che ha visto la svolta commerciale del cantante, arrivando in top ten delle classifiche di diversi mercati, tra cui Australia, dove è stato certificato settuplo platino dall'industria musicale locale con oltre 490 000 unità vendute,[4] Regno Unito e Nuova Zelanda.[5][6]
+Nato a Naples, Fike ha registrato il suo primo EP Don't Forget About Me, Demos a dicembre 2017 mentre era sotto arresti domiciliari a causa di un'aggressione aggravata contro un agente di polizia. La pubblicazione, la cui uscita è avvenuta nel 2018, è stata supportata dal singolo 3 Nights, che ha visto la svolta commerciale del cantante, arrivando in top ten delle classifiche di diversi mercati, tra cui Australia, dove è stato certificato settuplo platino dall'industria musicale locale con oltre 490 000 unità vendute, Regno Unito e Nuova Zelanda.
 
-Nel 2020 ha pubblicato i singoli Chicken Tenders e Politics & Violence per il suo album in studio di debutto What Could Possibly Go Wrong,[7] che è entrato al 41º posto della Billboard 200 statunitense.[8]
+Nel 2020 ha pubblicato i singoli Chicken Tenders e Politics & Violence per il suo album in studio di debutto What Could Possibly Go Wrong, che è entrato al 41º posto della Billboard 200 statunitense.
 
-Nel 2022 esordisce come attore, interpretando Elliot in Euphoria,[9] ruolo grazie al quale viene candidato per due premi agli MTV Movie & TV Awards.[10]
-Discografia
-Album in studio
+Nel 2022 esordisce come attore, interpretando Elliot in Euphoria, ruolo grazie al quale viene candidato per due premi agli MTV Movie & TV Awards.
+
+## Discografia
+
+### Album in studio
 
     2020 – What Could Possibly Go Wrong
 
-## EP
+### EP
 
     2018 – Don't Forget About Me, Demos
 
