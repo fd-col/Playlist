@@ -9,13 +9,12 @@ google-ID: 'G-JDXXFJ7FS2'
 menu:
 - {name: 'Cantautori',    url: 'cantautore'}
 - {name: 'Hip hop',       url: 'hip_hop'}
-- {name: 'Latino',        url: 'latino'}
 - {name: 'Pop',           url: 'pop'}
 - {name: 'Pop punk',      url: 'pop_punk'}
 - {name: 'Rap',           url: 'rap'}
 - {name: 'Reggae',        url: 'reggae'}
 - {name: 'Reggaeton',     url: 'reggaeton'}
-- {name: 'Trap',          url: 'trap'}
+- {name: 'Trap Latino',   url: 'latino'}
 - {name: 'Documentation', url: 'documentation'}
 - {name: 'About',         url: 'about'}
 
