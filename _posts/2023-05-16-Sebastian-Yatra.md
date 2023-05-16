@@ -9,21 +9,37 @@ image: sebastian-yatra.jpeg
 
 # Sebastián Yatra
 
-Pseudonimo di Sebastián Obando Giraldo (Medellín, 15 ottobre 1994), è un cantautore, compositore e musicista colombiano. 
+Pseudonimo di **Sebastián Obando Giraldo** (_Medellín, 15 ottobre 1994_), è un cantautore, compositore e musicista colombiano. 
 
-Nasce a Medellin ma a soli 2 anni va a vivere a Cartagena, e a 5 anni a Miami dive tutt’ora vive. Ha debuttato professionalmente nel 2013. Ha cantato musica di vario genere: latino, pop, pop urbano, ballata pop e reggaeton. Tra i suoi maggiori successi vi sono i brani: Alguien robó ft. Nacho y Wisin, Traicionera, Cómo mirarte, Para olvidar, Por fin te encontré, No me llames, Cristina, Un año e Runaway ft Jonas Brothers, Natti Natasha e Daddy Yankee, Boomshakalaka ft. Dimitri Vegas, Like Mike, Afro Bros, Camilo ed Emilia, TBT con Manuel Turizo e Rauw Alejandro, Pareja del año e Tarde.
+Nasce a Medellin ma a soli 2 anni va a vivere a Cartagena, e a 5 anni a Miami dive tutt’ora vive. Ha debuttato professionalmente nel 2013. Ha cantato musica di vario genere: latino, pop, pop urbano, ballata pop e reggaeton. 
 
-Ha complessivamente vinto 16 dischi di platino e 2 dischi d'oro per le vendite digitali in Spagna, Stati Uniti, e Messico. Inoltre ha raggiunto la prima posizione della classifica spagnola col brano Traicionera (2016). Nel corso della sua carriera musicale ha collaborato con Martina Stoessel, Carlos Vives, Nacho, Wisin, Juan Magán, Cali y El Dandee e Joey Montana, tra gli altri. Inoltre, ha composto il singolo Para Enamorarte contenuto nell'album di debutto Primera Cita della boy band latinoamericana CNCO. Il 28 maggio 2017 è stata pubblicata la versione spagnola di No Vacancy degli OneRepublic in collaborazione con il cantante colombiano. Nel luglio 2017 collabora con gli Sheppard al singolo, Edge of the Night, riadattato in versione spagnola.
+### Tra i suoi maggiori successi vi sono i brani: 
+    Alguien robó ft. Nacho y Wisin, 
+    Traicionera, Cómo mirarte, 
+    Para olvidar, 
+    Por fin te encontré, 
+    No me llames, Cristina, 
+    Un año e Runaway ft Jonas Brothers, 
+    Natti Natasha e Daddy Yankee, 
+    Boomshakalaka ft. Dimitri Vegas, 
+    Like Mike, Afro Bros, 
+    Camilo ed Emilia, 
+    TBT con Manuel Turizo e Rauw Alejandro, 
+    Pareja del año e Tarde.
 
-Nel 2018 ha partecipato per la prima volta come giurato e allenatore nel reality show La voz Kids, insieme a Fanny Lú e Andrés Cepeda, come sostituto del cantante colombiano Maluma. In questo programma televisivo, ha scelto Juanse Laverde come finalista, che in brevissimo tempo è riuscito a catturare l'attenzione della Colombia e anche a livello internazionale. Infine, Juanse Laverde ha conquistato la vittoria del programma.
+Ha complessivamente vinto **16 dischi di platino** e **2 dischi d'oro** per le _vendite digitali_ in Spagna, Stati Uniti, e Messico. Inoltre ha raggiunto la **prima posizione della classifica spagnola col brano Traicionera (2016)**. Nel corso della sua carriera musicale ha collaborato con Martina Stoessel, Carlos Vives, Nacho, Wisin, Juan Magán, Cali y El Dandee e Joey Montana, tra gli altri. 
 
-Il 18 maggio 2018 è stato pubblicato il suo primo album chiamato Mantra, il quale ha riscontrato molto successo in Europa e in America. Il 10 agosto 2018 esce il singolo Ya No Tiene Novio in collaborazione con i cantanti Mau Y Ricky.
+Inoltre, ha composto il singolo "Para Enamorarte" contenuto nell'album di debutto "Primera Cita" della boy band latinoamericana CNCO. Il 28 maggio 2017 è stata pubblicata la versione spagnola di "No Vacancy" degli OneRepublic in collaborazione con il cantante colombiano. Nel luglio 2017 collabora con gli Sheppard al singolo, "Edge of the Night", riadattato in versione spagnola.
 
-Il 12 aprile 2019 viene rilasciato il suo secondo album Fantasía, composto unicamente da ballate. La canzone En guerra, con Camilo, viene riconosciuta da Papa Francesco come canzone ufficiale della fondazione Scholas.
+Nel 2018 ha partecipato per la prima volta come giurato e allenatore nel reality show "La voz Kids", insieme a Fanny Lú e Andrés Cepeda, come sostituto del cantante colombiano Maluma. In questo programma televisivo, ha scelto Juanse Laverde come finalista, che in brevissimo tempo è riuscito a catturare l'attenzione della Colombia e anche a livello internazionale. Infine, Juanse Laverde ha conquistato la vittoria del programma.
 
-Nel giugno 2019, Yatra ha pubblicato la canzone Runaway con Daddy Yankee e Natti Natasha, con la band americana Jonas Brothers. Runaway è la prima canzone bilingue che Yatra ha pubblicato.
+Il _18 maggio 2018_ è stato pubblicato il suo **primo album** chiamato "Mantra", il quale ha riscontrato molto successo in Europa e in America. Il 10 agosto 2018 esce il singolo "Ya No Tiene Novio" in collaborazione con i cantanti Mau Y Ricky.
 
-Il 28 gennaio 2022 viene rilasciato il suo terzo album Dharma, e lo stesso giorno annuncia anche il suo tour in Spagna denominato “Dharma Tour” 
+Il _12 aprile 2019_ viene rilasciato il suo **secondo album** "Fantasía", composto unicamente da ballate. La canzone "En guerra", con Camilo, viene riconosciuta da Papa Francesco come canzone ufficiale della fondazione Scholas.
+
+Nel _giugno 2019_, Yatra ha pubblicato la canzone "Runaway" con Daddy Yankee e Natti Natasha, con la band americana Jonas Brothers. Runaway è la **prima canzone bilingue** che Yatra ha pubblicato.
+
+Il _28 gennaio 2022_ viene rilasciato il suo terzo album "Dharma", e lo stesso giorno annuncia anche il suo tour in Spagna denominato “Dharma Tour” 
 
 ## Discografia
 
