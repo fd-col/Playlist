@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Pattie LaBelle"
+title: "Patti LaBelle"
 author: "Federico"
 categories: soul
 tags: [Soul,African-American,Amore]
-image: pattie-labelle.jpg
+image: patti-labelle.jpg
 ---
 
-# Pattie LaBelle
+# Patti LaBelle
 
 Patti LaBelle, pseudonimo di Patricia Louise Holte (Filadelfia, 24 maggio 1944), è una cantante e attrice statunitense.
 
