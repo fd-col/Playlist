@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Ray-Charles."
+title: "Ray Charles"
 author: "Federico"
 categories: soul
-tags: [Soul,African-American]
+tags: [Soul,African-American,glaucoma,]
 image: ray-charles.jpg
 ---
 
@@ -20,7 +20,7 @@ Il brano Georgia on My Mind è stato il suo maggior successo. Nel 1990 partecip�
 
 Frank Sinatra lo chiamò "l'unico vero genio nel nostro campo".
 
-Nel 2004, Rolling Stone Magazine lo nominò 10º tra i 100 più grandi artisti di tutti i tempi e 2º nella classifica del 2008 dei 100 più grandi cantanti di sempre.
+_Nel 2004_, Rolling Stone Magazine lo nominò **10º tra i 100 più grandi artisti di tutti i tempi** e **2º nella classifica del 2008 dei 100 più grandi cantanti di sempre**.
 
 
 Il sopra citato brano "Georgia on My Mind" - assieme ad altri motivi come "I Can't Stop Loving You", "Unchain My Heart", "Hit the Road Jack" - gli hanno valso tredici Grammy.
