@@ -14,7 +14,9 @@ Aretha Louise Franklin (Memphis, 25 marzo 1942 – Detroit, 16 agosto 2018) è s
 
 È stata soprannominata **"La Regina del Soul"** o "Lady Soul" per la sua capacità di aggiungere una vena soul a qualsiasi cosa cantasse, e per le sue enormi qualità vocali. Lo Stato del Michigan ha ufficialmente dichiarato la sua voce "una meraviglia della natura".
 
-Molto nota per la sua vasta produzione di **musica soul, gospel e R&B ma anche blues, jazz e rock and roll**, si è aggiudicata ben **21 Grammy Award** (otto dei quali vinti consecutivamente nella stessa categoria dal 1968 al 1975; in quel periodo infatti il premio veniva chiamato The Aretha Award, ossia "Il premio Aretha"). Con oltre 75 milioni di album venduti, è considerata _una delle più grandi esponenti femminili della musica Soul_, insieme a Dionne Warwick, Gladys Knight e [Patti LaBelle](https://fd-col.github.io/Playlist/Pattie-LaBelle).
+Molto nota per la sua vasta produzione di **musica soul, gospel e R&B ma anche blues, jazz e rock and roll**, si è aggiudicata ben **21 Grammy Award** (otto dei quali vinti consecutivamente nella stessa categoria dal 1968 al 1975; in quel periodo infatti il premio veniva chiamato The Aretha Award, ossia "Il premio Aretha"). 
+
+Con oltre 75 milioni di album venduti, è considerata _una delle più grandi esponenti femminili della musica Soul_, insieme a Dionne Warwick, Gladys Knight e [Patti LaBelle](https://fd-col.github.io/Playlist/Patti-LaBelle).
 
 Il _3 gennaio 1987_ è stata la **prima donna a entrare a far parte della Rock and Roll Hall of Fame**.
 
