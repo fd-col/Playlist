@@ -9,7 +9,7 @@ image: otis-redding.jpg
 
 # Otis Redding
 
-Otis Ray Redding Jr. (Dawson, 9 settembre 1941 – Madison, 10 dicembre 1967) è stato un cantante statunitense di musica soul, la cui fama è legata soprattutto ai singoli "I've Been Loving You Too Long" del 1965 e "Sittin' on the Dock of the Bay" uscito postumo.
+Otis Ray Redding Jr. (Dawson, 9 settembre 1941 – Madison, 10 dicembre 1967) è stato un cantante statunitense di musica soul, la cui fama è legata soprattutto ai singoli "I've Been Loving You Too Long" del 1965 e "(Sittin' on) the Dock of the Bay" uscito postumo.
 
 
 Nonostante il modesto successo conseguito in vita, Redding è tuttora considerato uno dei massimi esponenti della black music e tra i maggiori cantanti di tutti i tempi. La rivista Rolling Stone lo inserisce al ventunesimo posto nella sua lista dei **100 migliori artisti** e al **nono in quella dei 100 migliori cantanti** ed è _sovente_ definito come il **Re del Soul**.
