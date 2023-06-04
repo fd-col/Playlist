@@ -11,7 +11,7 @@ image: Tre-Allegri-Ragazzi-Morti.jpeg
 
 I Tre Allegri Ragazzi Morti (spesso abbreviato in TARM) sono un gruppo musicale formatosi nel 1994 a Pordenone. 
 
-Il chitarrista e fumettista Davide Toffolo iniziò a suonare alla fine degli anni settanta quando Pordenone divenne una delle città più rilevanti per il punk rock italiano[4].
+Il chitarrista e fumettista Davide Toffolo iniziò a suonare alla fine degli anni settanta quando Pordenone divenne una delle città più rilevanti per il punk rock italiano.
 
 Questo grazie al movimento pordenonese The Great Complotto, dal quale usciranno una miriade di piccoli gruppi punk rock e new wave, che però avranno quasi tutti breve vita. Tra questi anche i Futuritmi (1983-1990), nella cui formazione, oltre a Toffolo, militava anche Gian Maria Accusani, leader dei Prozac+. Il gruppo partecipò anche al programma musicale pomeridiano D.O.C., di Renzo Arbore. 
 
