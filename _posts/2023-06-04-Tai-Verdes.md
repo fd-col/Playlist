@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tai Verdes."
+title: "Tai Verdes"
 author: "Federico"
 categories: rap
 tags: [rap,produttore]
