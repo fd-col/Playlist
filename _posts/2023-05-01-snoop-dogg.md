@@ -3,21 +3,18 @@ layout: post
 title: "Snoop Dogg"
 author: "Federico"
 categories: rap
-tags: [rap,cantante,snoopdog]
+tags: [rap, cantante, snoopdog]
 image: snoop-dogg.jpeg
 ---
-
-# Snoop Dogg
 
 Snoop Dogg, pseudonimo di Calvin Cordozar Broadus Jr. (Long Beach, 20 ottobre 1971), è un rapper, attore e produttore discografico statunitense.
 
 È noto per il suo flow melodico, reso tale anche dal timbro vocale, per i testi tendenti a dargli un'immagine di gangster e per il suo slang, inventato da Frankie Smith and The Gap Band nei primi anni ottanta e reso famoso dall'amico rapper E-40, in cui si aggiunge "izz" o "-izzle" alla fine della parola (ad esempio, "for shizzle" sta per "for sure"). La sua musicalità ha permesso la diffusione del g-funk, in particolare in collaborazione con il collega Dr. Dre. Nel corso della sua carriera ha venduto 35 milioni di album a livello globale.[2]
 
-È stato il presentatore ufficiale del programma televisivo Dogg After Dark, in cui ad ogni serata erano ospiti grandi celebrità del mondo dello spettacolo e dell'intrattenimento. È cugino del rapper Nate Dogg, morto nel marzo 2011. A detta di alcuni rapper, tra i quali Busta Rhymes, è uno dei migliori nel panorama, grazie alle liriche originali e alla grande capacità da MC fin da giovane età. 
-
-
+È stato il presentatore ufficiale del programma televisivo Dogg After Dark, in cui ad ogni serata erano ospiti grandi celebrità del mondo dello spettacolo e dell'intrattenimento. È cugino del rapper Nate Dogg, morto nel marzo 2011. A detta di alcuni rapper, tra i quali Busta Rhymes, è uno dei migliori nel panorama, grazie alle liriche originali e alla grande capacità da MC fin da giovane età.
 
 ## Discografia
+
 ### Da solista
 
 #### Album in studio

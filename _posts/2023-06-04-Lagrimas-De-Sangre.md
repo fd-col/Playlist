@@ -7,17 +7,16 @@ tags: []
 image: lagrimas-de-sangre.jpg
 ---
 
-# Lágrimas De Sangre
-
 I Lágrimas de Sangre (LDS) sono un gruppo rap combattivo formatosi a Masnou e Barcellona nel 2006. Attualmente, il gruppo è composto da Neidos, Still Ill e Microbio al microfono, Acid Lemon come DJ e produttore e Ramón Anglada alla chitarra. Il suo stile beve dal rap, hip-hop, rock e reggae.
 
 ## Componenti
+
     Neidos: Voce
     Still Ill: Voce
     Microbio: Voce
     Acid Lemon: DJ/Produttore
     Ramón Anglada: Chitarra
-    
+
 ## Discografia
 
 2007: Coincidencia
@@ -31,7 +30,3 @@ I Lágrimas de Sangre (LDS) sono un gruppo rap combattivo formatosi a Masnou e B
 2016: Viridarquía
 2019: Vértigo
 2022: Armónico Desorden
-    
-    
-
-

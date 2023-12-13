@@ -3,18 +3,14 @@ layout: post
 title: "Don Patricio"
 author: "Federico"
 categories: latino
-tags: [rap,latino,canarie]
+tags: [rap, latino, canarie]
 image: don-patricio.jpeg
 ---
 
-# Don Patricio
+Don Patricio, pseudonimo di Patricio Martín Díaz (La Caleta, 9 febbraio 1993), è un rapper spagnolo.
+Ha pubblicato il suo primo demo nel 2011. La sua canzone Nuestra playa eres tú, composta da lui, Uge e Bejo per essere la colonna sonora del film Maktub, è stata nominata per il premio come miglior canzone originale ai Goya Awards 2012.
 
-Don Patricio, pseudonimo di Patricio Martín Díaz (La Caleta, 9 febbraio 1993), è un rapper spagnolo. 
-Ha pubblicato il suo primo demo nel 2011. La sua canzone Nuestra playa eres tú, composta da lui, Uge e Bejo per essere la colonna sonora del film Maktub, è stata nominata per il premio come miglior canzone originale ai Goya Awards 2012. 
-
-
-All'inizio del 2017, ha pubblicato il suo primo lavoro da solista, un EP intitolato "El reguetón está pa allá", che includeva brani che ha scritto e prodotto con l'etichetta discografica _Warner Music Spain_. Questo EP lo ha reso noto come _solista_ a livello locale. A metà dello stesso anno, insieme ad altre canzoni dei Locoplaya, pubblicò il suo primo album in studio con il titolo "Don Papaya", di cui spiccarono i brani "La Papaya" e "Caribe Mix 93". 
-
+All'inizio del 2017, ha pubblicato il suo primo lavoro da solista, un EP intitolato "El reguetón está pa allá", che includeva brani che ha scritto e prodotto con l'etichetta discografica _Warner Music Spain_. Questo EP lo ha reso noto come _solista_ a livello locale. A metà dello stesso anno, insieme ad altre canzoni dei Locoplaya, pubblicò il suo primo album in studio con il titolo "Don Papaya", di cui spiccarono i brani "La Papaya" e "Caribe Mix 93".
 
 ## Il successo e "La dura vida del joven rapero" (2018-presente)
 
@@ -26,4 +22,4 @@ Il 31 luglio 2019 ha pubblicato la canzone Lola Bunny in collaborazione con Lola
 
 Il 18 marzo 2020 ha pubblicato la canzone BZRP Music Sessions #25, canzone cantata da Don Patricio e prodotta da Bizarrap. Questo singolo ha raggiunto una grande vitalità principalmente in Argentina e altri stati latinoamericani, e ha raggiunto le 50 milioni di visualizzazioni sulla piattaforma YouTube.
 
-L'8 maggio 2020 [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L?si=GF8TcdZIT-y7MEWh0p_BKg) ha pubblicato il remix di Boogieman, traccia contenuta nel suo album DNA, che vede la partecipazione di **Don Patricio**. A fine maggio Don Patricio presenta la sua nuova canzone intitolata [Pa toda la vida](https://open.spotify.com/track/6DDb7XRNUzeHmSoTbw5nmm?si=f225357630d947f7), in collaborazione con Mozart La Para. La canzone è stata prodotta dal colombiano KZO Beat e registrata in Spagna, Colombia e Repubblica Dominicana. A luglio dello stesso anno, il rapper pubblica Cambio de temperatura con Aissa, a cui segue una collaborazione con El Ima, dal titolo Dice, ad agosto. 
+L'8 maggio 2020 [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L?si=GF8TcdZIT-y7MEWh0p_BKg) ha pubblicato il remix di Boogieman, traccia contenuta nel suo album DNA, che vede la partecipazione di **Don Patricio**. A fine maggio Don Patricio presenta la sua nuova canzone intitolata [Pa toda la vida](https://open.spotify.com/track/6DDb7XRNUzeHmSoTbw5nmm?si=f225357630d947f7), in collaborazione con Mozart La Para. La canzone è stata prodotta dal colombiano KZO Beat e registrata in Spagna, Colombia e Repubblica Dominicana. A luglio dello stesso anno, il rapper pubblica Cambio de temperatura con Aissa, a cui segue una collaborazione con El Ima, dal titolo Dice, ad agosto.

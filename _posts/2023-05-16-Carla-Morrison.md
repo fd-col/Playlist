@@ -3,13 +3,11 @@ layout: post
 title: "Carla Morrison"
 author: "Federico"
 categories: cantautore
-tags: [Cantautorato,Compositrice,Messicana,Amore]
+tags: [Cantautorato, Compositrice, Messicana, Amore]
 image: carla-morrison.jpeg
 ---
 
-# Carla Morrison
-
-Carla Patricia Morrison Flores (Bassa California, 19 luglio 1986) è una cantautrice e compositrice messicana. 
+Carla Patricia Morrison Flores (Bassa California, 19 luglio 1986) è una cantautrice e compositrice messicana.
 
 Carla Morrison ha esordito nel mondo della musica pubblicando, tra il 2009 e il 2010, gli EP Aprendiendo a aprender e Mientras tú dormías..., l'ultimo dei quali è stato candidato ad un Latin Grammy Award. Nel 2009 si è esibita al Teatro Fru Fru come artista di apertura di Natalia Lafourcade. La consacrazione musicale è avvenuta nel 2012, con la pubblicazione dell'album di debutto, intitolato Déjenme llorar, certificato disco di platino in Messico e candidato a un Grammy Award. In occasione dei Latin Grammy Awards 2012 Morrison ha vinto due premi, come miglior album di musica alternativa e miglior canzone alternativa.
 

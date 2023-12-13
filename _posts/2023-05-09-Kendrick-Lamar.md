@@ -3,11 +3,9 @@ layout: post
 title: "Kendrick Lamar"
 author: "Federico Colleluori"
 categories: rap,cantautore
-tags: [kendrick,rap,cantante,produttore,america,K-dot]
+tags: [kendrick, rap, cantante, produttore, america, K-dot]
 image: kendrick-lamar.jpeg
 ---
-
-# Kendrick Lamar
 
 Kendrick Lamar Duckworth, semplicemente noto come Kendrick Lamar (Compton, 17 giugno 1987), è un rapper, cantautore e produttore discografico statunitense.
 

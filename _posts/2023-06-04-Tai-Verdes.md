@@ -3,11 +3,9 @@ layout: post
 title: "Tai Verdes"
 author: "Federico"
 categories: rap
-tags: [rap,produttore]
+tags: [rap, produttore]
 image: tai-verdes.jpeg
 ---
-
-# Tai Verdes
 
 Tai Verdes, pseudonimo di Tyler Colon (Los Angeles, 6 dicembre 1995), è un cantautore statunitense.
 
@@ -21,7 +19,7 @@ Sempre in età adolescenziale, giocò nella squadra di basketball del Babson Col
 
 Dopo la pubblicazione del suo primo singolo, Stuck in the Middle, riuscì, inoltre, a firmare con l'ente discografico Arista, con cui fece uscire il suo album di debutto un anno dopo, TV, appunto.
 
-Il 16 settembre 2022, invece, esce ufficialmente il secondo album, ovvero HDTV, attualmente presente solo in formato digitale, e con tematiche simili al primo, oltre a generi musicali che possono essere pop, rap, rock o R&B. 
+Il 16 settembre 2022, invece, esce ufficialmente il secondo album, ovvero HDTV, attualmente presente solo in formato digitale, e con tematiche simili al primo, oltre a generi musicali che possono essere pop, rap, rock o R&B.
 
 ## Discografia
 
@@ -63,5 +61,4 @@ Il 16 settembre 2022, invece, esce ufficialmente il secondo album, ovvero HDTV, 
 
 2022 — sheluvme
 
-2022 — how deep? 
-
+2022 — how deep?

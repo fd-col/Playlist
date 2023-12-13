@@ -3,11 +3,9 @@ layout: post
 title: "Facundo Majdalani"
 author: "Federico"
 categories: dj
-tags: [dj,compositore,argentino,pegao]
+tags: [dj, compositore, argentino, pegao]
 image: facundo-majdalani.jpeg
 ---
-
-# Facundo Majdalani
 
 **Domanda**: "Come hai iniziato il tuo percorso nel mondo della musica?"
 **Risposta**: "Ho iniziato nel mondo della musica quando avevo undici o dodici anni. Mi piacevano molto i DJ di quel tempo: Martin Garrix, Calvin Harris, Alesso, Kygo e Avicii. Tutti i DJ di quel tempo mi affascinavano, amavo la musica elettronica in quegli anni. Ricordo che il giorno del mio undicesimo compleanno chiesi a mio padre di regalarmi una piccola consolle per DJ. Ho iniziato a cliccare lì, come un gioco più di ogni altra cosa. Passarono gli anni e quando raggiunsi il primo anno di liceo iniziai a produrre le mie canzoni, mi riunivo con i miei amici di scuola che cantavano ed è allora che iniziai con le mie prime canzoni."
@@ -23,5 +21,3 @@ Fonte: [elgeneracionalpost](https://elgeneracionalpost.com/cultura/musica/2023/0
 ## Discografia
 
 [Apri su Spotify](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A?si=QTM1aQogSsWSAdneFSCTuw)
-
-

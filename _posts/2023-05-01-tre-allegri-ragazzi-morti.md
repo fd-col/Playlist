@@ -3,18 +3,15 @@ layout: post
 title: "Tre Allegri Ragazzi Morti"
 author: "Federico"
 categories: pop_punk
-tags: [tarm,cantante,rock,indie,punk,blues]
+tags: [tarm, cantante, rock, indie, punk, blues]
 image: Tre-Allegri-Ragazzi-Morti.jpeg
 ---
 
-# Tre Allegri Ragazzi Morti
-
-I Tre Allegri Ragazzi Morti (spesso abbreviato in TARM) sono un gruppo musicale formatosi nel 1994 a Pordenone. 
+I Tre Allegri Ragazzi Morti (spesso abbreviato in TARM) sono un gruppo musicale formatosi nel 1994 a Pordenone.
 
 Il chitarrista e fumettista Davide Toffolo iniziò a suonare alla fine degli anni settanta quando Pordenone divenne una delle città più rilevanti per il punk rock italiano.
 
-Questo grazie al movimento pordenonese The Great Complotto, dal quale usciranno una miriade di piccoli gruppi punk rock e new wave, che però avranno quasi tutti breve vita. Tra questi anche i Futuritmi (1983-1990), nella cui formazione, oltre a Toffolo, militava anche Gian Maria Accusani, leader dei Prozac+. Il gruppo partecipò anche al programma musicale pomeridiano D.O.C., di Renzo Arbore. 
-
+Questo grazie al movimento pordenonese The Great Complotto, dal quale usciranno una miriade di piccoli gruppi punk rock e new wave, che però avranno quasi tutti breve vita. Tra questi anche i Futuritmi (1983-1990), nella cui formazione, oltre a Toffolo, militava anche Gian Maria Accusani, leader dei Prozac+. Il gruppo partecipò anche al programma musicale pomeridiano D.O.C., di Renzo Arbore.
 
 ### Maschere ed esibizioni
 
@@ -22,7 +19,6 @@ Questo grazie al movimento pordenonese The Great Complotto, dal quale usciranno 
 (Davide Toffolo, 2021)
 
 La band ha deciso di non donare la propria immagine ai media e di immaginarsi dentro la matita di Davide Toffolo, popolare disegnatore di fumetti, e di nascondersi inoltre dietro maschere/teschio divenute feticcio e simbolo dell'immaginario evocato dai testi e soprattutto dagli spettacoli live, al punto di pregare il pubblico di non scattare fotografie quando levandosele mostrano il viso, sebbene tali fotografie siano state a volte scattate durante il backstage. Per le video-interviste si coprono ancora il volto con la medesima maschera.
-
 
 ### Discografia
 
@@ -66,7 +62,7 @@ La band ha deciso di non donare la propria immagine ai media e di immaginarsi de
     2015 – Vivere fuggendo
     2019 – Lavorare per il male (feat. Pierpaolo Capovilla)
     2020 – Quando
- 
+
 #### Apparizioni in raccolte
 
     2001 – Una cosa speciale in Uncage your punk side

@@ -3,16 +3,13 @@ layout: post
 title: "Paulo Londra"
 author: "Federico"
 categories: latino
-tags: [rap,cantante,argentina,adan_y_eva,homerun,tal_vez]
+tags: [rap, cantante, argentina, adan_y_eva, homerun, tal_vez]
 image: paulo-londra.jpeg
 ---
-
-# Paulo Londra
 
 Paulo Ezequiel Londra Farías, conosciuto come Paulo Londra (Cordoba, 12 aprile 1998), è un rapper e cantante argentino.
 
 Il suo primo album in studio, Homerun pubblicato il 23 maggio 2019 sotto l'etichetta Big Ligas/Warner Latina, ha raggiunto la prima posizione nella classifica Argentina[3], la terza in quella spagnola e la quarta in quella messicana. Due suoi singoli, Cuando te besé e Adán y Eva entrambi pubblicati nel 2018, hanno raggiunto la vetta della classifica argentina. Quest'ultimo ha raggiunto anche la prima posizione della classifica spagnola e uruguaiana nonché è stato certificato dalla AMPROFON col triplo platino, dalla FIMI col doppio platino, dalla PROMUSICAE col quadruplo platino e dalla RIAA col triplo platino.
-
 
 ### Album in studio
 

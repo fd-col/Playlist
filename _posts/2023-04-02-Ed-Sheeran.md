@@ -3,11 +3,9 @@ layout: post
 title: "Ed Sheeran"
 author: "Federico"
 categories: pop
-tags: [cantante,chitarra,irlandese]
+tags: [cantante, chitarra, irlandese]
 image: ed-sheeran.jpeg
 ---
-
-# Ed Sheeran
 
 Edward Christopher Sheeran (Halifax, 17 febbraio 1991) è un cantautore britannico.
 
@@ -17,4 +15,4 @@ Nel 2011 l'artista ha firmato un contratto discografico con la Asylum Records, s
 
 Persona molto attiva nel supporto delle associazioni benefiche, Sheeran è apprezzato anche per le sue qualità di scrittore e compositore, tanto da essere divenuto autore di brani per diversi artisti. Fra i numerosi premi vinti, vi sono 4 Grammy Award e 6 BRIT Award.
 
-Secondo la rivista statunitense Forbes, con un patrimonio personale stimato in 57 milioni di dollari (corrispondenti a 47,8 milioni di euro), nel 2015 Ed Sheeran è stata la 27ª celebrità più ricca del mondo. Nell'aprile 2017 è stato invece inserito dal settimanale Time fra le 100 personalità più influenti del pianeta. Secondo le statistiche di Spotify, Sheeran si è posizionato secondo tra gli artisti più ascoltati negli anni dieci. 
+Secondo la rivista statunitense Forbes, con un patrimonio personale stimato in 57 milioni di dollari (corrispondenti a 47,8 milioni di euro), nel 2015 Ed Sheeran è stata la 27ª celebrità più ricca del mondo. Nell'aprile 2017 è stato invece inserito dal settimanale Time fra le 100 personalità più influenti del pianeta. Secondo le statistiche di Spotify, Sheeran si è posizionato secondo tra gli artisti più ascoltati negli anni dieci.

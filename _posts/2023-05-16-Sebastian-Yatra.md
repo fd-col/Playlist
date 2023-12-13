@@ -3,31 +3,30 @@ layout: post
 title: "Sebastián Yatra"
 author: "Federico"
 categories: cantautore
-tags: [cantautore,compositore,musicista,colombiano]
+tags: [cantautore, compositore, musicista, colombiano]
 image: sebastian-yatra.jpeg
 ---
 
-# Sebastián Yatra
+Pseudonimo di **Sebastián Obando Giraldo** (_Medellín, 15 ottobre 1994_), è un cantautore, compositore e musicista colombiano.
 
-Pseudonimo di **Sebastián Obando Giraldo** (_Medellín, 15 ottobre 1994_), è un cantautore, compositore e musicista colombiano. 
+Nasce a Medellin ma a soli 2 anni va a vivere a Cartagena, e a 5 anni a Miami dive tutt’ora vive. Ha debuttato professionalmente nel 2013. Ha cantato musica di vario genere: latino, pop, pop urbano, ballata pop e reggaeton.
 
-Nasce a Medellin ma a soli 2 anni va a vivere a Cartagena, e a 5 anni a Miami dive tutt’ora vive. Ha debuttato professionalmente nel 2013. Ha cantato musica di vario genere: latino, pop, pop urbano, ballata pop e reggaeton. 
+### Tra i suoi maggiori successi vi sono i brani:
 
-### Tra i suoi maggiori successi vi sono i brani: 
-    Alguien robó ft. Nacho y Wisin, 
-    Traicionera, Cómo mirarte, 
-    Para olvidar, 
-    Por fin te encontré, 
-    No me llames, Cristina, 
-    Un año e Runaway ft Jonas Brothers, 
-    Natti Natasha e Daddy Yankee, 
-    Boomshakalaka ft. Dimitri Vegas, 
-    Like Mike, Afro Bros, 
-    Camilo ed Emilia, 
-    TBT con Manuel Turizo e Rauw Alejandro, 
+    Alguien robó ft. Nacho y Wisin,
+    Traicionera, Cómo mirarte,
+    Para olvidar,
+    Por fin te encontré,
+    No me llames, Cristina,
+    Un año e Runaway ft Jonas Brothers,
+    Natti Natasha e Daddy Yankee,
+    Boomshakalaka ft. Dimitri Vegas,
+    Like Mike, Afro Bros,
+    Camilo ed Emilia,
+    TBT con Manuel Turizo e Rauw Alejandro,
     Pareja del año e Tarde.
 
-Ha complessivamente vinto **16 dischi di platino** e **2 dischi d'oro** per le _vendite digitali_ in Spagna, Stati Uniti, e Messico. Inoltre ha raggiunto la **prima posizione della classifica spagnola col brano Traicionera (2016)**. Nel corso della sua carriera musicale ha collaborato con Martina Stoessel, Carlos Vives, Nacho, Wisin, Juan Magán, Cali y El Dandee e Joey Montana, tra gli altri. 
+Ha complessivamente vinto **16 dischi di platino** e **2 dischi d'oro** per le _vendite digitali_ in Spagna, Stati Uniti, e Messico. Inoltre ha raggiunto la **prima posizione della classifica spagnola col brano Traicionera (2016)**. Nel corso della sua carriera musicale ha collaborato con Martina Stoessel, Carlos Vives, Nacho, Wisin, Juan Magán, Cali y El Dandee e Joey Montana, tra gli altri.
 
 Inoltre, ha composto il singolo "Para Enamorarte" contenuto nell'album di debutto "Primera Cita" della boy band latinoamericana CNCO. Il 28 maggio 2017 è stata pubblicata la versione spagnola di "No Vacancy" degli OneRepublic in collaborazione con il cantante colombiano. Nel luglio 2017 collabora con gli Sheppard al singolo, "Edge of the Night", riadattato in versione spagnola.
 
@@ -39,7 +38,7 @@ Il _12 aprile 2019_ viene rilasciato il suo **secondo album** "Fantasía", compo
 
 Nel _giugno 2019_, Yatra ha pubblicato la canzone "Runaway" con Daddy Yankee e Natti Natasha, con la band americana Jonas Brothers. Runaway è la **prima canzone bilingue** che Yatra ha pubblicato.
 
-Il _28 gennaio 2022_ viene rilasciato il suo terzo album "Dharma", e lo stesso giorno annuncia anche il suo tour in Spagna denominato “Dharma Tour” 
+Il _28 gennaio 2022_ viene rilasciato il suo terzo album "Dharma", e lo stesso giorno annuncia anche il suo tour in Spagna denominato “Dharma Tour”
 
 ## Discografia
 
